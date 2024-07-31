@@ -1,6 +1,6 @@
 # Projeto de Biblioteca de Games
 
-Projeto visando praticar conceitos de Javacript através do React.js
+Projeto visando praticar conceitos de Javacript através do React.js com auxílio do Vite.
 
 ## Visão Geral
 
